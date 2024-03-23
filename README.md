@@ -19,8 +19,8 @@ No se requieren conocimientos previos de Git o GitHub para esta actividad. Sin e
 
 La dinámica de esta actividad es simple:
 
-- Estudia todos los días durante 30 minutos, durante un período de 30 días.
-- Utiliza las herramientas con las que te sientas más cómodo trabajar (Windows/Mac/Linux).
+- Estudia todos los días 30 minutos, durante un período de 30 días.
+- Utiliza las herramientas con las que te sientas más cómodo para trabajar.(Windows/Mac/Linux).
 
 ## Contenido de la actividad
 
