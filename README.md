@@ -50,7 +50,8 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 ## Que recursos utilizaremos
 - Repositorio de Brais Moure: [hello-git](https://github.com/mouredev/hello-git)
 - Aplicación Git-it para Windows/Mac/Linux: [Git-it](https://github.com/jlord/git-it-electron)
-- Recuros que vayan aportando la comunidad en el hilo designado.
+- Recuros que vayan aportando la comunidad en el [hilo](https://discord.com/channels/729672926432985098/1221229403347095632)
+ designado
 
 ## ¡Únete y Mejora tus Habilidades con Git & GitHub!
 
