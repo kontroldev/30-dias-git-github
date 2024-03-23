@@ -13,7 +13,7 @@ Los primeros 15 dias exploraremos todos los aspectos importantes de estas herram
 
 No se requieren conocimientos previos de Git o GitHub para esta actividad. Sin embargo, es útil tener familiaridad con el uso básico de la línea de comandos.
 
-¡Únete a nosotros y lleva tus habilidades de control de versiones y colaboración al siguiente nivel con este actividad completa de Git y GitHub de la comunidad de Discord!
+¡Únete a nosotros y lleva tus habilidades de control de versiones y colaboración al siguiente nivel con este curso completo de Git y GitHub!
 
 ## Dinámica de la Actividad
 
@@ -46,6 +46,11 @@ Durante los últimos 15 días, nos centraremos en habilidades más avanzadas:
 - Colaboración en proyectos de código abierto
 - Uso de ramas y pull requests para contribuir a proyectos existentes
 - Resolución de problemas comunes en colaboración de proyectos en GitHub
+
+## Que recursos utilizaremos
+- Repositorio de Brais Moure: [hello-git](https://github.com/mouredev/hello-git)
+- Aplicación Git-it para Windows/Mac/Linux: [Git-it](https://github.com/jlord/git-it-electron)
+- Recuros que vayan aportando la comunidad en el hilo designado.
 
 ## ¡Únete y Mejora tus Habilidades con Git & GitHub!
 
