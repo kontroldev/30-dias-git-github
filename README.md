@@ -5,7 +5,7 @@
 
 ## Descripción
 
-En esta actividad de la comunidad de Discord de [MoureDev](https://discord.com/invite/mouredev) veremos el completo de Git y GitHub.
+En esta actividad de la comunidad de Discord de [MoureDev](https://discord.com/invite/mouredev) veremos el curso completo de Git y GitHub.
 Los primeros 15 días exploraremos todos los aspectos importantes de estas herramientas de control de versiones y colaboración. Desde los fundamentos básicos hasta las técnicas avanzadas, aprenderás todo lo necesario para utilizar Git y GitHub de manera efectiva en tus proyectos de desarrollo de software y apoyándote con la ayuda de la comunidad en los grupos de estudio.
 
 ## Requisitos Previos
